@@ -19,9 +19,14 @@ Assigned ID `[errata #xxxxx]`
 
 ```
 The picture in the house, by H. P. Lovecraft
-    MONTH, YEAR  [EBook #79405]
+    August, 2026  [EBook #79405]
 
-    Txt version (line 2084), HTML version (line 3133):
-        might be ground for con|plaint
-            "con|plaint" should be "complaint"
+    Txt version (line 167), HTML version (line 252):
+        the walker may have, been inspecting my bicycle
+            "have, been" should be "have been"
+
+Compared with other editions to verify:
+- <https://hplovecraft.com/writings/texts/fiction/ph.aspx>
+- <https://americanliterature.com/author/h-p-lovecraft/short-story/the-picture-in-the-house>
+- <https://cthulhufiles.com/stories/lovecraft/lovecraft-the-picture-in-the-house.html>
 ```
