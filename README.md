@@ -13,7 +13,7 @@ This is an [errata report][1] for a [Project Gutenberg][2] EBook.
 [3]: https://www.gutenberg.org/ebooks/79405
 
 
-Assigned ID `[errata #xxxxx]`
+Assigned ID `[errata #22602]`
 
 ### Corrections
 
